@@ -9,15 +9,14 @@
  */
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Starter Blog`,
+    title: `For The Wynne`,
     author: {
-      name: `Kyle Mathews`,
-      summary: `who lives and works in San Francisco building useful things.`,
+      name: `Kieran Wynne`,
+      summary: `I'm Kieran Wynne, a problem-solver passionate about simplifying complexity. Whether it's automating tasks, developing tools in Python, or optimizing processes, I love finding smarter ways to work.`,
     },
     description: `A starter blog demonstrating what Gatsby can do.`,
-    siteUrl: `https://gatsbystarterblogsource.gatsbyjs.io/`,
+    siteUrl: `https://forthewynne.uk`,
     social: {
-      twitter: `kylemathews`,
     },
   },
   plugins: [
